@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class calculosTriangulo {
+public class CalculosRetangulo {
     public static void main(String[] args) {
     Scanner ler = new Scanner(System.in);
 
@@ -18,6 +18,6 @@ public class calculosTriangulo {
 
     System.out.print("perimetro do retangulo: " + perimetro);
     System.out.print("\narea do retangulo: " + area);
-    System.out.print("\ndiagonal do retangulo: " + diagonal);
+    System.out.print("\ndiagonal do retangulo: " + diagonal + "\n");
     }
 }
